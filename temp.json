@@ -1,0 +1,20 @@
+// UserImpl {providerId: 'firebase', emailVerified: false, isAnonymous: false, tenantId: null, providerData: Array(1), …}
+// accessToken: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjdiODcxMTIzNzU0MjdkNjU3ZjVlMjVjYTAxZDU2NWU1OTJhMjMxZGIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vYmFua2luZ2FwcC0xN2Y4MSIsImF1ZCI6ImJhbmtpbmdhcHAtMTdmODEiLCJhdXRoX3RpbWUiOjE2MzMwODM1NjMsInVzZXJfaWQiOiJlV2s0M1Y1bEJ0UkJnQ01iTlIzZmFZdU9IQWUyIiwic3ViIjoiZVdrNDNWNWxCdFJCZ0NNYk5SM2ZhWXVPSEFlMiIsImlhdCI6MTYzMzA4MzU2MywiZXhwIjoxNjMzMDg3MTYzLCJlbWFpbCI6InNodWJoYW1AbmFncGJhbmsuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbInNodWJoYW1AbmFncGJhbmsuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.svre_Q81mOCDpVFx7MLDk2cENjb60q3Zn6glJ0rOs1NvpYEvfevDN63Ehjr5vut80NoOX4a0v8GjaIbGzo_skUhlaXhWh5invQflohBr4SwsduhtsbnpNhpXyQhbkYg0rfJG_2zNi7c2hygl5PfdBvz-NBtQ6eQO77miPlDI7_MA4-Z_q1Ngaosu-yqEygkZ8sq4rC6VGtgeBNPoLSsTYj9jg92zn-l2VejaKdaCbdf4aEgPL88CEDgQp6k02lCvQ96hbqLDwdEeMbjXi79QSZBkep9BVQ0cek1gHe3mflDcGaXpY46WH3OXx3p3sBNkO-CkqVAjKqAB9OM6E7LRlg"
+// auth: AuthImpl {app: FirebaseAppImpl, config: {…}, currentUser: UserImpl, emulatorConfig: null, operations: Promise, …}
+// displayName: null
+// email: "shubham@nagpbank.com"
+// emailVerified: false
+// isAnonymous: false
+// metadata: UserMetadata {createdAt: '1633083562855', lastLoginAt: '1633083562855', lastSignInTime: 'Fri, 01 Oct 2021 10:19:22 GMT', creationTime: 'Fri, 01 Oct 2021 10:19:22 GMT'}
+// phoneNumber: null
+// photoURL: null
+// proactiveRefresh: ProactiveRefresh {user: UserImpl, isRunning: true, timerId: 56, errorBackoff: 30000}
+// providerData: [{…}]
+// providerId: "firebase"
+// reloadListener: null
+// reloadUserInfo: {localId: 'eWk43V5lBtRBgCMbNR3faYuOHAe2', email: 'shubham@nagpbank.com', passwordHash: 'UkVEQUNURUQ=', emailVerified: false, passwordUpdatedAt: 1633083562855, …}
+// stsTokenManager: StsTokenManager {refreshToken: 'ACzBnCgQOjDMdpRcjoaD2PUsZ40QH6PD5hVxb8tlE3_Z1ZEZzX…jEE6GcwFq04iRCPTaAsJ3Y-hTftsXgrsZAKyIyEQPxSLWqyYw', accessToken: 'eyJhbGciOiJSUzI1NiIsImtpZCI6IjdiODcxMTIzNzU0MjdkNj…e3mflDcGaXpY46WH3OXx3p3sBNkO-CkqVAjKqAB9OM6E7LRlg', expirationTime: 1633087163365}
+// tenantId: null
+// uid: "eWk43V5lBtRBgCMbNR3faYuOHAe2"
+// refreshToken: (...)
+// [[Prototype]]: Object
