@@ -4,7 +4,7 @@ This is a banking app where user can create account, withdraw and deposit money 
 # Deployed Application
 https://bit.ly/3dGcERa
 
-Either Create a new Account or User this one:
+Either Create a new Account or Use this one:
 ### Account Number: 
 71717
 ### Password: 
