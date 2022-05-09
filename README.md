@@ -1,5 +1,10 @@
 # BankingApp_React
-This is a banking app where user can create account, withdraw and deposit money in there account. Its Front End is in React and for Backend it uses FireBase.
+Banking app, a Front-end Application in react which provide following functionalities:
+* Login/Register a account.
+* Deposit money in account
+* Withdraw money based on some pre-defined conditions.
+* Search Transactions based on description
+* View Account Details.
 
 # Deployed Application
 https://bit.ly/3dGcERa
